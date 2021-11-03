@@ -6,6 +6,7 @@ public class ProyectoFuturo {
 
     
     public static void main(String[] args) {
+        System.out.println("NOELIA");
         System.out.println("Estudiante: "+args[0]);
         System.out.println("Horas de estudio "+args[1]);
         System.out.println("Horas de estudio: "+args[2]);
